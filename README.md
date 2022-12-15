@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 ## Stats
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=werdl.werdl" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=werdl&show_icons=true&theme=great-gatsby" alt="werdl" />
+<a href="werdl"><img src="contributions.svg"></a>
