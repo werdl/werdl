@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me i dont know lol
 
-- 🎞 I'm working on the website [dispatch.ml](http://dispatch.ml) and [Rosemary](http://GitHub.com/werdl/rosemary)
+- 🎞 I'm working on the website [dispatch.ml](http://dispatch.ml) and the programming language [Rosemary](http://GitHub.com/werdl/rosemary)
 <!---
 werdl/werdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
