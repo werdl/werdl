@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @werdl, aka r0b0tt0 on some platforms
-- 👀 I’m interested in learning new stuff!
-- 🌱 I’m currently learning C++, PHP and webdev
-- 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me i dont know lol
+# Full Stack Web Dev & App Developer
+## Tech I use
+https://img.shields.io/static/v1?label=VS%20Code&message=<MESSAGE>&color=<COLOR>
+
 
 - 🎞 I'm working on the website [dispatch.ml](http://dispatch.ml) and the programming language [Rosemary](http://GitHub.com/werdl/rosemary)
 <!---
