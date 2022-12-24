@@ -7,7 +7,7 @@
 <img SRC='https://img.shields.io/static/v1?label=language&message=Python&color=yellow' />
 <img SRC='https://img.shields.io/static/v1?label=language&message=C++&color=darkblue' />
 <img SRC='https://img.shields.io/static/v1?label=language&message=HTML, CSS and JS&color=orange' />
-<img SRC='https://img.shields.io/static/v1?label=language&message=PHP&color=pink' />
+<img SRC='https://img.shields.io/static/v1?label=framework&message=Bootstrap&color=purple' />
 
 
 
