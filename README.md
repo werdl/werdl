@@ -1,6 +1,15 @@
 # Full Stack Web Dev & App Developer
 ## Tech I use
-https://img.shields.io/static/v1?label=VS%20Code&message=<MESSAGE>&color=<COLOR>
+<img SRC='https://img.shields.io/static/v1?label=app&message=VS Code&color=lightblue' />
+<img SRC='https://img.shields.io/static/v1?label=app&message=GitHub&color=darkgrey' />
+<img SRC='https://img.shields.io/static/v1?label=app&message=MS Edge&color=green' />
+<img SRC='https://img.shields.io/static/v1?label=language&message=PHP&color=pink' />
+<img SRC='https://img.shields.io/static/v1?label=language&message=Python&color=yellow' />
+<img SRC='https://img.shields.io/static/v1?label=language&message=C++&color=darkblue' />
+<img SRC='https://img.shields.io/static/v1?label=language&message=HTML, CSS and JS&color=orange' />
+<img SRC='https://img.shields.io/static/v1?label=language&message=PHP&color=pink' />
+
+
 
 
 - 🎞 I'm working on the website [dispatch.ml](http://dispatch.ml) and the programming language [Rosemary](http://GitHub.com/werdl/rosemary)
