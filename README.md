@@ -8,6 +8,11 @@
 <img SRC='https://img.shields.io/static/v1?label=language&message=C++&color=darkblue' />
 <img SRC='https://img.shields.io/static/v1?label=language&message=HTML, CSS and JS&color=orange' />
 <img SRC='https://img.shields.io/static/v1?label=framework&message=Bootstrap&color=purple' />
+<img SRC='https://img.shields.io/static/v1?label=framework&message=FontAwesome&color=turquoise' />
+<img SRC='https://img.shields.io/static/v1?label=framework&message=ChordCSS&color=orange' />
+<img SRC='https://img.shields.io/static/v1?label=webserver&message=Apache&color=blue' />
+
+
 
 
 
