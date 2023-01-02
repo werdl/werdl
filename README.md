@@ -2,7 +2,7 @@
 ## Tech I use
 <img SRC='https://img.shields.io/static/v1?label=app&message=VS Code&color=lightblue' /> <img SRC='https://img.shields.io/static/v1?label=app&message=GitHub&color=darkgrey' /> <img SRC='https://img.shields.io/static/v1?label=app&message=MS Edge&color=green' />
 
-<img SRC='https://img.shields.io/static/v1?label=language&message=PHP&color=pink' /> <img SRC='https://img.shields.io/static/v1?label=language&message=Python&color=yellow' /> <img SRC='https://img.shields.io/static/v1?label=language&message=C++&color=darkblue' /> <img SRC='https://img.shields.io/static/v1?label=language&message=HTML, CSS and JS&color=orange' />
+<img SRC='https://img.shields.io/static/v1?label=language&message=PHP&color=pink' /> <img SRC='https://img.shields.io/static/v1?label=language&message=Python&color=yellow' /> <img SRC='https://img.shields.io/static/v1?label=language&message=CPP&color=darkblue' /> <img SRC='https://img.shields.io/static/v1?label=language&message=HTML, CSS and JS&color=orange' />
 
 <img SRC='https://img.shields.io/static/v1?label=framework&message=Bootstrap&color=purple' /> <img SRC='https://img.shields.io/static/v1?label=framework&message=FontAwesome&color=turquoise' /> <img SRC='https://img.shields.io/static/v1?label=framework&message=ChordCSS&color=orange' /> <img SRC='https://img.shields.io/static/v1?label=webserver&message=Apache&color=blue' />
 
