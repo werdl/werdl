@@ -1,5 +1,2 @@
-jobs:
-  my_first_job:
-    steps:
-      - name: My first step
-        uses: actions/setup-node@v3
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v1.1.4
