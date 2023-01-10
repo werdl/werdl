@@ -6,22 +6,6 @@
 
 <img SRC='https://img.shields.io/static/v1?label=framework&message=Bootstrap&color=purple' /> <img SRC='https://img.shields.io/static/v1?label=framework&message=FontAwesome&color=turquoise' /> <img SRC='https://img.shields.io/static/v1?label=framework&message=ChordCSS&color=orange' /> <img SRC='https://img.shields.io/static/v1?label=webserver&message=Apache&color=blue' />
 
-<link rel="stylesheet" href="https://unpkg.com/octicons@4.4.0/build/font/octicons.css">
-<link rel="stylesheet" href="https://unpkg.com/github-activity-feed@latest/dist/github-activity.min.css">
-
-<script type="text/javascript" src="https://unpkg.com/mustache@4.2.0/mustache.min.js"></script>
-<script type="text/javascript" src="https://unpkg.com/github-activity-feed@latest/dist/github-activity.min.js"></script>
-
-<!-- if using dark theme add this in addition to the main CSS file -->
-<link rel="stylesheet" href="https://unpkg.com/github-activity-feed@latest/dist/github-activity.dark.min.css">
-
-<script>GitHubActivity.feed({
-  username: "werdl",
-  selector: "#feed",
-  limit: 20, // optional
-});</script>
-
-<div id="feed"></div>
 - 🎞 I'm working on the website [dispatch.ml](http://dispatch.ml) and the programming language [Rosemary](http://GitHub.com/werdl/rosemary)
 <!---
 werdl/werdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
