@@ -1,4 +1,4 @@
-# Full Stack Web Dev & App Developer
+# PHP, Python & C++
 ## Tech I use
 <img SRC='https://img.shields.io/static/v1?label=app&message=VS Code&color=lightblue' /> <img SRC='https://img.shields.io/static/v1?label=app&message=GitHub&color=darkgrey' /> <img SRC='https://img.shields.io/static/v1?label=app&message=MS Edge&color=green' />
 
