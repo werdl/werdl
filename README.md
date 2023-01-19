@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=werdl.werdl" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=werdl&show_icons=true&theme=great-gatsby" alt="werdl" />
 <img src="https://profile-counter.glitch.me/werdl/count.svg" />
-![werdl github streak](https://github-readme-streak-stats.herokuapp.com/?user=werdl&theme=radical&include_all_commits=true&count_private=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=werdl&theme=radical&include_all_commits=true&count_private=true" />
