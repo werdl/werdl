@@ -18,7 +18,8 @@ werdl/werdl is a ✨ special ✨ repository because its `README.md` (this file) 
 You can
 --->
 ## Riddle me this
-- Which word is encoded in this character snippet? d„0
+- Which word is encoded in this character snippet? 
+- d„0
 
 ## Stats
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=werdl.werdl" />
