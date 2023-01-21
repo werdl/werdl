@@ -15,12 +15,14 @@
 - 🎞 I'm working on the website [dispatch.ml](http://dispatch.ml) and the programming language [Rosemary](http://GitHub.com/werdl/rosemary)
 <!---
 werdl/werdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can
 --->
+## Riddle me this
+- Which word is encoded in this character snippet? d„0click the Preview link to take a look at your changes.
+
 ## Stats
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=werdl.werdl" />
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=werdl&show_icons=true&theme=great-gatsby" alt="werdl" /></p> -->
 <img src="https://profile-counter.glitch.me/werdl/count.svg" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=werdl&theme=radical&include_all_commits=true&count_private=true" />
-## Riddle me this
-- Which word is encoded in this character snippet? d„0
+
