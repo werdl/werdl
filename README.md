@@ -5,6 +5,11 @@
 <img SRC='https://img.shields.io/static/v1?label=language&message=PHP&color=pink' /> <img SRC='https://img.shields.io/static/v1?label=language&message=Python&color=yellow' /> <img SRC='https://img.shields.io/static/v1?label=language&message=CPP&color=darkblue' /> <img SRC='https://img.shields.io/static/v1?label=language&message=HTML, CSS and JS&color=orange' />
 
 <img SRC='https://img.shields.io/static/v1?label=framework&message=Bootstrap&color=purple' /> <img SRC='https://img.shields.io/static/v1?label=framework&message=FontAwesome&color=turquoise' /> <img SRC='https://img.shields.io/static/v1?label=framework&message=ChordCSS&color=orange' /> <img SRC='https://img.shields.io/static/v1?label=webserver&message=Apache&color=blue' />
+
+[![werdl's GitHub stats](https://github-readme-stats.vercel.app/api?username=werdl&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=werdl.werdl" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=werdl&theme=radical&include_all_commits=true&count_private=true" />
+
 ## About
 - 🖥️ I use g++
 - 🍔 My favourite tech stack is LAMP
@@ -21,9 +26,8 @@ You can
 - Which word is encoded in this character snippet? 
 - d„0
 
-## Stats
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=werdl.werdl" />
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=werdl&show_icons=true&theme=great-gatsby" alt="werdl" /></p> -->
+<div style="justify-content:center">
 <img src="https://profile-counter.glitch.me/werdl/count.svg" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=werdl&theme=radical&include_all_commits=true&count_private=true" />
+</div>
+
 
