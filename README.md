@@ -1,11 +1,12 @@
 # Backend dev
 ## Tech I use
-<img SRC='https://img.shields.io/static/v1?label=app&message=VS Code&color=lightblue' /> <img SRC='https://img.shields.io/static/v1?label=app&message=GitHub&color=darkgrey' /> <img SRC='https://img.shields.io/static/v1?label=app&message=MS Edge&color=green' />
+<!-- <img SRC='https://img.shields.io/static/v1?label=app&message=VS Code&color=lightblue' /> <img SRC='https://img.shields.io/static/v1?label=app&message=GitHub&color=darkgrey' /> <img SRC='https://img.shields.io/static/v1?label=app&message=MS Edge&color=green' />
 
 <img SRC='https://img.shields.io/static/v1?label=language&message=PHP&color=pink' /> <img SRC='https://img.shields.io/static/v1?label=language&message=Python&color=yellow' /> <img SRC='https://img.shields.io/static/v1?label=language&message=CPP&color=darkblue' /> <img SRC='https://img.shields.io/static/v1?label=language&message=HTML, CSS and JS&color=orange' />
 
 <img SRC='https://img.shields.io/static/v1?label=framework&message=Bootstrap&color=purple' /> <img SRC='https://img.shields.io/static/v1?label=framework&message=FontAwesome&color=turquoise' /> <img SRC='https://img.shields.io/static/v1?label=framework&message=ChordCSS&color=orange' /> <img SRC='https://img.shields.io/static/v1?label=webserver&message=Apache&color=blue' />
-
+-->
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,php,git,github,js,linux,windows)](https://skillicons.dev)
 [![werdl's GitHub stats](https://github-readme-stats.vercel.app/api?username=werdl&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=werdl.werdl" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=werdl&theme=radical&include_all_commits=true&count_private=true" />
