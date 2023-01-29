@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,php,js,mysql,git,bash,powershell,vscode,vim,linux,github,md&theme=dark)](https://skillicons.dev)
 
 [![werdl's GitHub stats](https://github-readme-stats.vercel.app/api?username=werdl&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=werdl&theme=radical&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=werdl&theme=radical&include_all_commits=true&count_private=true&theme=merko" />
 
 ## About
 - 🖥️ I use g++
