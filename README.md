@@ -17,7 +17,7 @@
 - 🖱️ My best languages are Python, PHP and C++
 - ⌨️ I also know JS but I don't like it very much
 - 💻 My favourite OS is Linux
-- Dotfiles - [working on it!]()
+- ⚫ [dotfiles](http://GitHub.com/werdl/dotfiles)
 - 🎞 I'm working on the website [dispatch.ml](http://dispatch.ml) and the programming language [Rosemary](http://GitHub.com/werdl/rosemary)
 <!---
 werdl/werdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
