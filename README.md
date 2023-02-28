@@ -10,7 +10,9 @@
 
 [![werdl's GitHub stats](https://github-readme-stats.vercel.app/api?username=werdl&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=werdl&theme=radical&include_all_commits=true&count_private=true&theme=merko" />
-
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics" width="400">
+</picture>
 ## About
 - 🖥️ I use g++
 - 🍔 My favourite tech stack is LAMP
