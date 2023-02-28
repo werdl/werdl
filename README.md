@@ -13,14 +13,14 @@
   <img src="/github-metrics.svg" alt="Metrics" width="400">
 </picture>
 ## About
-- Compiler: `g++`
-- Text editors: `Neovim, VSCode`
-- OS: `Debian 11 with KDE Plasma`
-- Shell: `Bash`
-- Languages: `C,C++,PHP,Python`
-- Dotfiles [`werdl/Dotfiles`](http://GitHub.com/werdl/dotfiles)
-- Working on: [`Rosemary`](http://GitHub.com/werdl/rosemary) ` & an 8-bit CPU`
-- You should try: `Logisim Evolution`
+- 🖨️ Compiler: `g++`
+- 📝 Text editors: `Neovim, VSCode`
+- 🧑‍💻 OS: `Debian 11 with KDE Plasma`
+- 🐚 Shell: `Bash`
+- ⌨️ Languages: `C,C++,PHP,Python`
+- ⚫ Dotfiles [`werdl/Dotfiles`](http://GitHub.com/werdl/dotfiles)
+- 🛠️ Working on: [`Rosemary`](http://GitHub.com/werdl/rosemary) `an 8-bit CPU`
+- ✨ You should try: `Logisim Evolution`
 <!---
 werdl/werdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can
