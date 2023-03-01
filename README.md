@@ -22,7 +22,7 @@
 - 🛠️ Working on: [`Rosemary`](http://GitHub.com/werdl/rosemary) `an 8-bit CPU`
 - ✨ You should try: `Logisim Evolution`
 - 🔐 My RSA Public Key: [`werdl/dotfiles/public.pem`](http://GitHub.com/werdl/dotfiles/blob/main/public.pem)
-- 👥 Email me at: [werdl_is_cool@outlook.com](mailto:werdl_is_cool@outlook.com)
+- 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_is_cool@outlook.com)
 <!---
 werdl/werdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can
