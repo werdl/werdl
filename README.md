@@ -27,6 +27,7 @@
 werdl/werdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can
 --->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai&quote=What%20one%20programmer%20can%20do%20in%20one%20month,%20two%20programmers%20can%20do%20in%20two%20months\.&author=Fred%20Brooks)](https://github.com/piyushsuthar/github-readme-quotes)
 ## Riddle me this
 - Which word is encoded in this character snippet? 
 - d„0
