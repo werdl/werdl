@@ -21,7 +21,7 @@
 - 🐚 Shell: `Bash`
 - ⌨️ Languages: `C,C++,PHP,Python`
 - ⚫ Dotfiles [`werdl/Dotfiles`](http://GitHub.com/werdl/dotfiles)
-- 🛠️ Working on: [`Rosemary`](http://GitHub.com/werdl/rosemary) `an 8-bit CPU`
+- 🛠️ Working on: [`NerdOS`](http://GitHub.com/spartanproj/os) `an 8-bit CPU`
 - ✨ You should try: `Logisim Evolution`
 - 🔐 My RSA Public Key: [`werdl/dotfiles/public.pem`](http://GitHub.com/werdl/dotfiles/blob/main/public.pem)
 - 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_is_cool@outlook.com)
