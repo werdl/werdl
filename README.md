@@ -15,7 +15,7 @@
 ![image](https://user-images.githubusercontent.com/116349156/226586811-3eb27ad4-0483-4135-9144-fe44d7bdd621.png)
 
 ## About
-- 🖨️ Compiler: `g++`
+- 🖨️ Compiler: `gcc`
 - 📝 Text editors: `Neovim, VSCode`
 - 🧑‍💻 OS: `Debian 11 with KDE Plasma`
 - 🐚 Shell: `Bash`
