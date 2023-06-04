@@ -5,7 +5,7 @@
 
 <img SRC='https://img.shields.io/static/v1?label=framework&message=Bootstrap&color=purple' /> <img SRC='https://img.shields.io/static/v1?label=framework&message=FontAwesome&color=turquoise' /> <img SRC='https://img.shields.io/static/v1?label=framework&message=ChordCSS&color=orange' /> <img SRC='https://img.shields.io/static/v1?label=webserver&message=Apache&color=blue' />
 -->
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,linux,bash,powershell,vim,neovim,vscode,php,flask,py&theme=dark&perline=6)](https://skillicons.dev)
+
 
 [![werdl's GitHub stats](https://github-readme-stats.vercel.app/api?username=werdl&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=werdl&theme=radical&include_all_commits=true&count_private=true&theme=merko" />
@@ -25,6 +25,17 @@
 - ✨ You should try: `Logisim Evolution`
 - 🔐 My RSA Public Key: [`werdl/dotfiles/public.pem`](http://GitHub.com/werdl/dotfiles/blob/main/public.pem)
 - 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_is_cool@outlook.com)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,powershell,py&theme=dark)](https://skillicons.dev)
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=linux,svg,vscode,vim,nvim&theme=dark)](https://skillicons.dev)
+### Hardware
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
+### Websites
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,php,flask,replit&theme=dark)](https://skillicons.dev)
+### New stuff I want to learn
+[![My Skills](https://skillicons.dev/icons?i=zig,ts,rust&theme=dark)](https://skillicons.dev)
+
 <!---
 werdl/werdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can
