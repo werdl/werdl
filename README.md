@@ -25,6 +25,7 @@
 - ✨ You should try: `Logisim Evolution`
 - 🔐 My RSA Public Key: [`werdl/dotfiles/public.pem`](http://GitHub.com/werdl/dotfiles/blob/main/public.pem)
 - 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_is_cool@outlook.com)
+- 😠 I don't like Javascript much
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,powershell,py&theme=dark)](https://skillicons.dev)
 ### Tools
