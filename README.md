@@ -19,7 +19,6 @@
 - 📝 Text editors: `Neovim, VSCode`
 - 🧑‍💻 OS: `Debian 11 with KDE Plasma`
 - 🐚 Shell: `Bash`
-- ⌨️ Languages: `C,C++,PHP,Python`
 - ⚫ Dotfiles [`werdl/Dotfiles`](http://GitHub.com/werdl/dotfiles)
 - 🛠️ Working on: [`NerdOS`](http://GitHub.com/spartanproj/os) `an 8-bit CPU`
 - ✨ You should try: `Logisim Evolution`
@@ -27,14 +26,14 @@
 - 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_is_cool@outlook.com)
 - 😠 I don't like: `[Javascript, Java]`
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,v,bash,powershell,py&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,v,bash,powershell,cpp&theme=dark)](https://skillicons.dev)
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,svg,vscode,vim,nvim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,nvim,vim,nvim,svg&theme=dark)](https://skillicons.dev)
 ### Hardware
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
 ### Websites
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,php,flask,replit&theme=dark)](https://skillicons.dev)
-### New stuff I want to learn
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,flask,jquery,replit&theme=dark)](https://skillicons.dev)
+### New stuff I want to learn but keep procrastinating
 [![My Skills](https://skillicons.dev/icons?i=zig,ts,rust&theme=dark)](https://skillicons.dev)
 
 <!---
