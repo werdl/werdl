@@ -27,7 +27,7 @@
 - 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_is_cool@outlook.com)
 - 😠 I don't like: `[Javascript, Java]`
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,powershell,py&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,v,bash,powershell,py&theme=dark)](https://skillicons.dev)
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,svg,vscode,vim,nvim&theme=dark)](https://skillicons.dev)
 ### Hardware
