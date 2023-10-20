@@ -6,6 +6,7 @@
 <img SRC='https://img.shields.io/static/v1?label=framework&message=Bootstrap&color=purple' /> <img SRC='https://img.shields.io/static/v1?label=framework&message=FontAwesome&color=turquoise' /> <img SRC='https://img.shields.io/static/v1?label=framework&message=ChordCSS&color=orange' /> <img SRC='https://img.shields.io/static/v1?label=webserver&message=Apache&color=blue' />
 -->
 
+werdl's real name is john rutherford :)
 
 [![werdl's GitHub stats](https://github-readme-stats.vercel.app/api?username=werdl&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
