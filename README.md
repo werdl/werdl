@@ -1,4 +1,4 @@
-## Web Backend and Low-Level Developer 
+## Low Level and Backend Developer 
 <!-- <img SRC='https://img.shields.io/static/v1?label=app&message=VS Code&color=lightblue' /> <img SRC='https://img.shields.io/static/v1?label=app&message=GitHub&color=darkgrey' /> <img SRC='https://img.shields.io/static/v1?label=app&message=MS Edge&color=green' />
 
 <img SRC='https://img.shields.io/static/v1?label=language&message=PHP&color=pink' /> <img SRC='https://img.shields.io/static/v1?label=language&message=Python&color=yellow' /> <img SRC='https://img.shields.io/static/v1?label=language&message=CPP&color=darkblue' /> <img SRC='https://img.shields.io/static/v1?label=language&message=HTML, CSS and JS&color=orange' />
@@ -18,11 +18,11 @@
 ![image](https://user-images.githubusercontent.com/116349156/226586811-3eb27ad4-0483-4135-9144-fe44d7bdd621.png)
 
 ## About
-- 🖨️ Compiler: `gcc`
+- 🖨️ Compiler: `gcc || tcc`
 - 📝 Text editors: `Neovim, VSCode`
-- 🧑‍💻 OS: `Debian 11 with KDE Plasma`
+- 🧑‍💻 OS: `Debian 12 with KDE Plasma`
 - 🐚 Shell: `Bash`
-- ⚫ Dotfiles [`werdl/Dotfiles`](http://GitHub.com/werdl/dotfiles)
+- ⚫ Dotfiles [`werdl/dotfiles`](http://GitHub.com/werdl/dotfiles)
 - 🛠️ Working on: [`NerdOS`](http://GitHub.com/spartanproj/os) `an 8-bit CPU`
 - ✨ You should try: `Logisim Evolution`
 - 🔐 My RSA Public Key: [`werdl/dotfiles/public.pem`](http://GitHub.com/werdl/dotfiles/blob/main/public.pem)
