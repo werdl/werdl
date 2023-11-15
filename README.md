@@ -37,7 +37,7 @@
 ### Websites
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,flask,jquery,replit&theme=dark)](https://skillicons.dev)
 ### New stuff I want to learn but keep procrastinating
-[![My Skills](https://skillicons.dev/icons?i=zig,ts,rust&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=zig,nim&theme=dark)](https://skillicons.dev)
 
 <!---
 werdl/werdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
