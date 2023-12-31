@@ -31,7 +31,7 @@
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=c,py,v,rust,cpp,bash,powershell&theme=dark)](https://skillicons.dev)
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,neovim,vim,svg&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,neovim,vim,svg,git,github&theme=dark)](https://skillicons.dev)
 ### Hardware
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
 ### Websites
