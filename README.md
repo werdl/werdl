@@ -20,14 +20,13 @@
 ## About
 - 🖨️ Compiler: `gcc || tcc`
 - 📝 Text editors: `Neovim, VSCode`
-- 🧑‍💻 OS: `Debian 12 with KDE Plasma`
+- 🧑‍💻 OS: `vec![Debian 12 with KDE Plasma, Windows 10 using Debian WSL2]`
 - 🐚 Shell: `Bash`
 - ⚫ Dotfiles [`werdl/dotfiles`](http://GitHub.com/werdl/dotfiles)
-- 🛠️ Working on: [`NerdOS`](http://GitHub.com/spartanproj/os) `an 8-bit CPU`
-- ✨ You should try: `Logisim Evolution`
+- ✨ You should try: [`rschat`](http://github.com/werdl/rschat)
 - 🔐 My RSA Public Key: [`werdl/dotfiles/public.pem`](http://GitHub.com/werdl/dotfiles/blob/main/public.pem)
 - 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_is_cool@outlook.com)
-- 😠 I don't like: `[Javascript, Java]`
+- 😠 I don't like: `vec![Javascript, Java]`
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=c,py,v,rust,cpp,bash,powershell&theme=dark)](https://skillicons.dev)
 ### Tools
