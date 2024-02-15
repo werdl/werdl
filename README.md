@@ -42,7 +42,9 @@
 werdl/werdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can
 --->
+<div style="display: flex;justify-content: center;">
 <img src="https://github.com/werdl/werdl/assets/116349156/5bfdf0cc-26f2-4bca-8782-1c32aca43dd2" width="400">
+</div>
 
 
 ![image](https://user-images.githubusercontent.com/116349156/226586052-b12b97cd-a14f-43ce-8d8e-48e879384a26.png)
