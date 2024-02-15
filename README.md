@@ -19,14 +19,14 @@
 
 ## About
 - 🖨️ Compiler: `gcc || tcc`
-- 📝 Text editors: `Neovim, VSCode`
+- 📝 Text editors: `vec!["VS Code", "Neovim"]`
 - 🧑‍💻 OS: `vec![Debian 12 with KDE Plasma, Windows 10 using Debian WSL2]`
 - 🐚 Shell: `Bash`
 - ⚫ Dotfiles [`werdl/dotfiles`](http://GitHub.com/werdl/dotfiles)
 - ✨ You should try: [`rschat`](http://github.com/werdl/rschat)
 - 🔐 My RSA Public Key: [`werdl/dotfiles/public.pem`](http://GitHub.com/werdl/dotfiles/blob/main/public.pem)
 - 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_is_cool@outlook.com)
-- 😠 I don't like: `vec![Javascript, Java]`
+- 😠 I don't like: `vec!["Javascript", "Java"]`
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=c,py,v,rust,cpp,bash,powershell&theme=dark)](https://skillicons.dev)
 ### Tools
@@ -42,7 +42,12 @@
 werdl/werdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can
 --->
+<img src="https://github.com/werdl/werdl/assets/116349156/5bfdf0cc-26f2-4bca-8782-1c32aca43dd2" width="400">
+
+
 ![image](https://user-images.githubusercontent.com/116349156/226586052-b12b97cd-a14f-43ce-8d8e-48e879384a26.png)
+
+
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai&quote=What%20one%20programmer%20can%20do%20in%20one%20month,%20two%20programmers%20can%20do%20in%20two%20months\.&author=Fred%20Brooks)](https://github.com/piyushsuthar/github-readme-quotes)
 ## Riddle me this
