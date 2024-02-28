@@ -1,7 +1,7 @@
 ## Low Level and Backend Developer
 
 ## About
-- 🖨️ Compiler: `gcc || tcc`
+- 🖨️ Compiler: `vec!["gcc" , "tcc"]`
 - 📝 Text editors: `vec!["VS Code", "Neovim"]`
 - 🧑‍💻 OS: `vec![Debian 12 with KDE Plasma, Windows 10 using Debian WSL2]`
 - 🐚 Shell: `Bash`
