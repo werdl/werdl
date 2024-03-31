@@ -3,7 +3,7 @@
 ## About
 - 🖨️ Compiler: `vec!["gcc" , "tcc"]`
 - 📝 Text editors: `vec!["VS Code", "Neovim"]`
-- 🧑‍💻 OS: `vec![Debian 12 with KDE Plasma, Windows 10 using Debian WSL2]`
+- 🧑‍💻 OS: `vec!["Debian 12 with KDE Plasma", "Windows 10 using Debian WSL2"]`
 - 🐚 Shell: `Bash`
 - ⚫ Dotfiles [`werdl/dotfiles`](http://GitHub.com/werdl/dotfiles)
 - ✨ You should try: [`rschat`](http://github.com/werdl/rschat)
