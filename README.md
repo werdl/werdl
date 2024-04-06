@@ -1,13 +1,13 @@
 ## Low Level and Backend Developer
 
 ## About
-- 🖨️ Compiler: `vec!["gcc" , "tcc"]`
+- 🖨️ C Compiler of of choice: `vec!["gcc" , "tcc"]`
 - 📝 Text editors: `vec!["VS Code", "Neovim"]`
 - 🧑‍💻 OS: `vec!["Debian 12 with KDE Plasma", "Windows 10 using Debian WSL2"]`
 - 🐚 Shell: `Bash`
 - ⚫ Dotfiles [`werdl/dotfiles`](http://GitHub.com/werdl/dotfiles)
 - ✨ You should try: [`rschat`](http://github.com/werdl/rschat)
-- 🔐 My RSA Public Key: [`werdl/dotfiles/public.pem`](http://GitHub.com/werdl/dotfiles/blob/main/public.pem)
+- 🔐 My RSA Public Key: [`keybase.io/werdl`](`https://keybase.io/werdl`)
 - 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_is_cool@outlook.com)
 - 😠 I don't like: `vec!["Javascript", "Java"]`
 ### Languages
