@@ -7,7 +7,7 @@
 - 🐚 Shell: `Bash`
 - ⚫ Dotfiles [`werdl/dotfiles`](http://GitHub.com/werdl/dotfiles)
 - ✨ You should try: [`rschat`](http://github.com/werdl/rschat)
-- 🔐 My RSA Public Key: [`keybase.io/werdl`](`https://keybase.io/werdl`)
+- 🔐 My RSA Public Key: [`keybase.io/werdl`](https://keybase.io/werdl)
 - 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_is_cool@outlook.com)
 - 😠 I don't like: `vec!["Javascript", "Java"]`
 ### Languages
