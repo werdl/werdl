@@ -8,7 +8,7 @@
 - ⚫ Dotfiles [`werdl/dotfiles`](http://GitHub.com/werdl/dotfiles)
 - ✨ You should try: [`rschat`](http://github.com/werdl/rschat)
 - 🔐 My RSA Public Key: [`keybase.io/werdl`](https://keybase.io/werdl)
-- 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_is_cool@outlook.com)
+- 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_@outlook.com)
 - 😠 I don't like: `vec!["Javascript", "Java"]`
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=c,py,v,rust,cpp,bash,powershell&theme=dark)](https://skillicons.dev)
