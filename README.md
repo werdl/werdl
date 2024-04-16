@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
 ### Websites
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,flask,jquery,replit&theme=dark)](https://skillicons.dev)
-### New stuff I want to learn but keep procrastinating
+### New stuff I want to learn
 [![My Skills](https://skillicons.dev/icons?i=zig,nim&theme=dark)](https://skillicons.dev)
 
 [![werdl's GitHub stats](https://github-readme-stats.vercel.app/api?username=werdl&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
