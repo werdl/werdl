@@ -6,7 +6,7 @@
 - 🧑‍💻 OS: `vec!["Debian 12 with KDE Plasma", "Windows 10 using Debian WSL2"]`
 - 🐚 Shell: `Bash`
 - ⚫ Dotfiles [`werdl/dotfiles`](http://GitHub.com/werdl/dotfiles)
-- ✨ You should try: [`rschat`](http://github.com/werdl/rschat)
+- ✨ Working on: [`4bit`](http://github.com/werdl/4bit)
 - 🔐 My RSA Public Key: [`keybase.io/werdl`](https://keybase.io/werdl)
 - 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_@outlook.com)
 - 😠 I don't like: `vec!["Javascript", "Java"]`
