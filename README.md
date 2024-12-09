@@ -11,7 +11,7 @@
 - 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_@outlook.com)
 - 😠 I don't like: `vec!["Javascript", "Java"]`
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=rust,c,py,v,cpp,bash,powershell&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,c,py,go,cpp,bash,powershell&theme=dark)](https://skillicons.dev)
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,neovim,vim,svg,git,github&theme=dark)](https://skillicons.dev)
 ### Hardware
