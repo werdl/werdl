@@ -3,8 +3,8 @@
 ## About
 - 🖨️ C Compiler of of choice: `vec!["gcc" , "tcc"]`
 - 📝 Text editors: `vec!["VS Code", "Neovim"]`
-- 🧑‍💻 OS: `vec!["Debian 12 with KDE Plasma", "Windows 10 using Debian WSL2"]`
-- 🐚 Shell: `Bash`
+- 🧑‍💻 OS: `vec!["Arch with Hyprland", "Debian 12 with KDE Plasma", "Windows 11 using Debian WSL2"]`
+- 🐚 Shell: `zsh`
 - ⚫ Dotfiles [`werdl/dotfiles`](http://GitHub.com/werdl/dotfiles)
 - ✨ Working on: [`4bit`](http://github.com/werdl/4bit)
 - 🔐 My RSA Public Key: [`keybase.io/werdl`](https://keybase.io/werdl)
