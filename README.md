@@ -14,10 +14,10 @@
 [![My Skills](https://skillicons.dev/icons?i=rust,c,py,go,cpp,bash,powershell&theme=dark)](https://skillicons.dev)
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,neovim,vim,svg,git,github&theme=dark)](https://skillicons.dev)
-### Hardware
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
 ### OSes
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,arch,raspberrypi&theme=dark)](https://skillicons.dev)
+### Hardware
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
 ### Websites
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,flask,jquery,replit&theme=dark)](https://skillicons.dev)
 
