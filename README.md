@@ -6,7 +6,7 @@
 - 🧑‍💻 OS: `vec!["Arch with Hyprland", "Debian 12 with KDE Plasma", "Windows 11 using Debian WSL2"]`
 - 🐚 Shell: `zsh`
 - ⚫ Dotfiles [`werdl/dotfiles`](http://GitHub.com/werdl/dotfiles)
-- ✨ Working on: [`4bit`](http://github.com/werdl/4bit)
+- ✨ Working on: [`rustnix`](http://github.com/werdl/rustnix)
 - 🔐 My RSA Public Key: [`keybase.io/werdl`](https://keybase.io/werdl)
 - 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_@outlook.com)
 - 😠 I don't like: `vec!["Javascript", "Java"]`
