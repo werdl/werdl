@@ -3,9 +3,9 @@
 ## About
 - 🖨️ C Compiler of of choice: `vec!["gcc" , "tcc"]`
 - 📝 Text editors: `vec!["VS Code", "Neovim"]`
-- 🧑‍💻 OS: `vec!["Arch with Hyprland", "Debian 12 with KDE Plasma", "Windows 11 using Debian WSL2"]`
+- 🧑‍💻 OS: `vec!["Arch with Sway", "Debian 12 with KDE Plasma", "Windows 11 using Debian WSL2"]`
 - 🐚 Shell: `zsh`
-- ⚫ Dotfiles [`werdl/dotfiles`](http://GitHub.com/werdl/dotfiles)
+- ⚫ Dotfiles [`werdl/dots`](http://GitHub.com/werdl/dots)
 - ✨ Working on: [`rustnix`](http://github.com/werdl/rustnix)
 - 🔐 My RSA Public Key: [`keybase.io/werdl`](https://keybase.io/werdl)
 - 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_@outlook.com)
