@@ -16,7 +16,7 @@
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=neovim,vscode,vim,svg,git,github&theme=dark)](https://skillicons.dev)
 ### OSes
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,bsd,raspberrypi&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bsd,arch,debian,raspberrypi&theme=dark)](https://skillicons.dev)
 ### Hardware
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
 ### Websites
