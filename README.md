@@ -3,8 +3,8 @@
 ## About
 - 🖨️ C Compiler of of choice: `vec!["gcc" , "tcc"]`
 - 📝 Text editors: `vec!["Neovim", "VS Code"]`
-- 🧑‍💻 OS: `vec!["Arch", "Debian", "Void Linux", "Windows 10/11"]`
-- 🪟 Window managers: `vec!["Sway", "Hyprland", "KDE", "Xfce"]`
+- 🧑‍💻 OS: `vec!["Arch", "Debian", "OpenBSD", "NetBSD", "Void Linux", "Windows 10/11"]`
+- 🪟 Window managers/desktop environments: `vec!["Sway", "Hyprland", "KDE", "Xfce"]`
 - 🐚 Shell: `zsh`
 - ⚫ Dotfiles [`werdl/dots`](http://GitHub.com/werdl/dots)
 - ✨ Working on: [`rustnix`](http://github.com/werdl/rustnix)
