@@ -8,7 +8,8 @@
 - 🐚 Shell: `zsh`
 - ⚫ Dotfiles [`werdl/dots`](http://GitHub.com/werdl/dots)
 - ✨ Working on: [`rustnix`](http://github.com/werdl/rustnix)
-- 🔐 Keys: [`tilde.club/~werdl/keys`](http://tilde.club/~werdl/keys)
+- 🔐 Keys: [`tilde.club/~werdl/keys`](http://tilde.club/~werdl/keys) (fingerprints: `256 SHA256:UsFPcqOzC4sBVIJs6tMTKmpyY0k57mtkXPgeL3Dqhc4 werdl@BjornAgain (ED25519)`, `6364 7415 2FE7 590D F8A2  5614 C64F 6145 2141 F33F (GPG)`)
+
 - 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_@outlook.com)
 - 😠 I don't like: `vec!["Javascript", "Java"]`
 ### Languages
