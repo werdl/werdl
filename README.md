@@ -8,7 +8,7 @@
 - 🐚 Shell: `zsh`
 - ⚫ Dotfiles [`werdl/dots`](http://GitHub.com/werdl/dots)
 - ✨ Working on: [`rustnix`](http://github.com/werdl/rustnix)
-- 🔐 My RSA Public Key: [`keybase.io/werdl`](https://keybase.io/werdl)
+- 🔐 Keys: [`tilde.club/~werdl/keys`](http://tilde.club/~werdl/keys)
 - 👥 Email me at: [`werdl_is_cool@outlook.com`](mailto:werdl_@outlook.com)
 - 😠 I don't like: `vec!["Javascript", "Java"]`
 ### Languages
