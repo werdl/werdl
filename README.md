@@ -26,7 +26,6 @@
 ### Websites
 [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,flask,jquery&theme=dark)](https://skillicons.dev)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=werdl&theme=radical&include_all_commits=true&count_private=true&theme=merko" />
 <picture>
   <img src="/github-metrics.svg" alt="Metrics" width="400">
 </picture>
